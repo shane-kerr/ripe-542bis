@@ -2,15 +2,15 @@
 
 RIPE Working Group Chairs 
 
-Document ID:ripe-542 
+Document ID:ripe-xxx
 
-Date: December 2011 
-
+Date: 2016-11-23
  
 ## 1. Introduction
 
-The purpose of this document is to describe the role, responsibility
-and expectations associated with RIPE Working Group (WG) Chairs.
+The purpose of this document is to describe the role,
+responsibilities, and expectations associated with RIPE Working
+Group (WG) Chairs.
 
 The document is divided into the following sections: 
 
@@ -24,32 +24,17 @@ The document is divided into the following sections:
 ## 2. Working Group Chairs and Co-Chairs
 
 WG chairs and co-chairs should always make it clear whether they speak
-on behalf of themselves, the organisations they work for or the WG for
-which they are chair or co-chair.
+on behalf of themselves, the organisations they work for, or the WG
+for which they are co-chair.
 
-RIPE WGs have two different ways of dividing up the responsibilities
-of the WG chair(s): WG Chair Model and Equal Co-Chair Model. The model
-that is used depends upon the specific needs, history and set-up of a
-particular WG.
+RIPE WG operation under a co-chair model. In this model, the co-chairs
+share the responsibility for RIPE Policy Development Process (PDP) and
+RIPE Meeting activities. The co-chairs act together to make any formal
+statements (for example on policy development) that are relevant to
+their WG. For each RIPE Meeting, one of the co-chairs serves as the
+primary contact for the WG and for session organisational matters.
 
-### i) WG Chair Model
-
-In this model, a WG chair has overall responsibility for the WG and
-can be supported by co-chairs. These co-chairs can assist with general
-WG support and can deputise for the WG chair if he/she is not able to
-attend a RIPE Meeting.
-
-### ii) Equal Co-Chair Model
-
-In this model, the co-chairs share the responsibility for RIPE Policy
-Development Process (PDP) and RIPE Meeting activities. The co-chairs
-act together to make any formal statements (for example on policy
-development) that are relevant to their WG. For each RIPE Meeting, one
-of the co-chairs serves as the primary contact for the WG and for
-session organisational matters.
-
-The number of chairs and co-chairs of each WG should not exceed three
-(3).
+A WG has either 2 or 3 co-chairs.
 
 ## 3. Creating Working Group Charters
 
@@ -72,10 +57,10 @@ charter for the new WG is officially recognised.
 
 ## 4. Updating Working Group Charters
 
-If a WG Chair needs to update the WG charter, he/she needs to have the
+If a WG Chair needs to update the WG charter, they need to have the
 text approved by the WG co-chairs before presenting the revised
 charter to the WG for their approval via the WG mailing list and/or at
-a RIPE Meeting.
+a RIPE Meeting. The RIPE Chair has final approval of the new charter.
 
 ## 5. Policy Development Process (PDP) Responsibilities
 
@@ -87,15 +72,11 @@ WG Chairs are expected to:
 * Guide mailing list discussions as appropriate
 * Take charge of PDP milestone decisions relevant to their WG
 * Ensure PDP milestone decisions keep to the timeframe as described in
-  the document **"Policy Development Process in RIPE" (ripe-500)**
-* Make a collective, final decision supported by a reasonable level of
-  awareness as to whether a particular policy proposal has received
-  consensus
+  the document **"Policy Development Process in RIPE" (ripe-642)**
 * Inform the RIPE NCC when a policy proposal has received consensus
   and should become a RIPE Document
 
-_Note In a WG with an equal co-chair model [see 2(i)], these
-responsibilities are shared between the co-chairs._
+Note that these responsibilities are shared between the co-chairs.
 
 ## 6. RIPE Meetings Responsibilities
 
@@ -105,12 +86,6 @@ WG Chairs are expected to:
 
 * Attend RIPE Meetings or **ensure that a co-chair attends the
   meeting**
-* Lead a Plenary session as agreed in advance of the meeting and pass
-  on any action points that are decided in this Plenary session to the
-  relevant WG
-
-_Note In a WG with an equal co-chair model [see 2(i)], these
-responsibilities are shared between the co-chairs._
 
 ### ii) Working Group Specific
 
@@ -124,14 +99,30 @@ WG chairs are expected to:
 * Attend WG chair lunches during RIPE Meetings
 * Attend WG chair meetings between RIPE Meetings
 * Update the action list of their WG after the RIPE Meeting
-* Approach the RIPE Chair and the EOF Coordinator with any requests to
-  fund a speakers attendance at a RIPE Meeting. If the request for
-  funding is deemed appropriate by the RIPE Chair and the EOF
-  Coordinator, the RIPE Chair will request funding from the RIPE NCC
-  Managing Director. The RIPE NCC Managing Director may or may not
-  approve such a request at his own discretion.
+* Approach the RIPE Chair with any requests to fund a speakers
+  attendance at a RIPE Meeting. If the request for funding is deemed
+  appropriate by the RIPE Chair, the RIPE Chair will request funding
+  from the RIPE NCC Managing Director. The RIPE NCC Managing Director
+  may or may not approve such a request at their own discretion.
 
-_Note In a WG with an equal co-chair model [see 2(i)], one co-chair
-takes overall responsibility for these activities at a particular RIPE
-Meeting._
+These responsibilities may be split between co-chairs.
 
+## Changes since ripe-542
+
+Minor:
+* Changed to Oxford comma, because we love clarity.
+* Converted to gender-neutral pronouns (they).
+* Updated reference to RIPE PDP
+
+Major:
+* Eliminated the chair with optional co-chair model.
+* Added RIPE Chair as final approval of new charters.
+* Noted that we no longer have the WG chair responsibility to act as
+  final approval on all new policies (outside of their own WG).
+* Removed responsibility to lead Plenary sessions, since the PC now
+  does that.
+* Removed references to the EOF Coordinator since that role does not
+  really exist now.
+
+Open question:
+* Do we still need "Attend WG chair meetings between RIPE Meetings"?
