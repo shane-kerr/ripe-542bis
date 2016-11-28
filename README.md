@@ -4,7 +4,7 @@ RIPE Working Group Chairs
 
 Document ID:ripe-xxx
 
-Date: 2016-11-23
+Date: 2016-11-28
  
 ## 1. Introduction
 
@@ -23,18 +23,19 @@ The document is divided into the following sections:
 
 ## 2. Working Group Chairs and Co-Chairs
 
-WG chairs and co-chairs should always make it clear whether they speak
-on behalf of themselves, the organisations they work for, or the WG
-for which they are co-chair.
-
-RIPE WG operation under a co-chair model. In this model, the co-chairs
-share the responsibility for RIPE Policy Development Process (PDP) and
-RIPE Meeting activities. The co-chairs act together to make any formal
-statements (for example on policy development) that are relevant to
-their WG. For each RIPE Meeting, one of the co-chairs serves as the
-primary contact for the WG and for session organisational matters.
+RIPE working groups operate under a co-chair model. In this, the
+co-chairs share the responsibility for all tasks involved in chairing
+their working group.  The co-chairs act together to make any formal
+statements (for example on policy development) that are relevant
+to their WG.
 
 A WG has either 2 or 3 co-chairs.
+
+When participating in RIPE discussions, WG chairs and co-chairs should
+endeavour to make it clear whether they speak on behalf of themselves,
+the organisations they work for, or the WG for which they are
+co-chair.
+
 
 ## 3. Creating Working Group Charters
 
@@ -57,10 +58,10 @@ charter for the new WG is officially recognised.
 
 ## 4. Updating Working Group Charters
 
-If a WG Chair needs to update the WG charter, they need to have the
-text approved by the WG co-chairs before presenting the revised
-charter to the WG for their approval via the WG mailing list and/or at
-a RIPE Meeting. The RIPE Chair has final approval of the new charter.
+If a WG Chair needs to update the WG charter, they must have the text
+approved by the WG co-chairs before presenting the revised charter to
+the WG for their approval via the WG mailing list. The RIPE Chair has
+final approval of the new charter.
 
 ## 5. Policy Development Process (PDP) Responsibilities
 
@@ -78,7 +79,7 @@ WG Chairs are expected to:
 
 Note that these responsibilities are shared between the co-chairs.
 
-## 6. RIPE Meetings Responsibilities
+## 6. RIPE Meeting Responsibilities
 
 ### i) General/Plenary
 
@@ -91,7 +92,7 @@ WG Chairs are expected to:
 
 WG chairs are expected to: 
 
-* Solicit relevant presentations for the WG session
+* Solicit relevant content for the WG session
 * Post a draft agenda for their WG session (at least 2-3 weeks before
   a RIPE Meeting where possible)
 * Lead the WG session and encourage active participation
@@ -99,7 +100,7 @@ WG chairs are expected to:
 * Attend WG chair lunches during RIPE Meetings
 * Attend WG chair meetings between RIPE Meetings
 * Update the action list of their WG after the RIPE Meeting
-* Approach the RIPE Chair with any requests to fund a speakers
+* Approach the RIPE Chair with any requests to fund a speaker's
   attendance at a RIPE Meeting. If the request for funding is deemed
   appropriate by the RIPE Chair, the RIPE Chair will request funding
   from the RIPE NCC Managing Director. The RIPE NCC Managing Director
@@ -112,11 +113,14 @@ These responsibilities may be split between co-chairs.
 Minor:
 * Changed to Oxford comma, because we love clarity.
 * Converted to gender-neutral pronouns (they).
-* Updated reference to RIPE PDP
+* Updated reference to RIPE PDP.
+* Chairs get "content" not "presentations" for WG sessions.
 
 Major:
 * Eliminated the chair with optional co-chair model.
 * Added RIPE Chair as final approval of new charters.
+* Changed new charter approval only to mailing list (was "and/or at a
+  RIPE Meeting").
 * Noted that we no longer have the WG chair responsibility to act as
   final approval on all new policies (outside of their own WG).
 * Removed responsibility to lead Plenary sessions, since the PC now
@@ -124,5 +128,7 @@ Major:
 * Removed references to the EOF Coordinator since that role does not
   really exist now.
 
-Open question:
+Open questions:
 * Do we still need "Attend WG chair meetings between RIPE Meetings"?
+* Do we need to reference the RIPE PDP by number or just specify the
+  RIPE PDP?
