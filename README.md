@@ -4,7 +4,7 @@ RIPE Working Group Chairs
 
 Document ID:ripe-xxx
 
-Date: 2016-11-28
+Date: 2017-05-17
  
 ## 1. Introduction
 
@@ -98,13 +98,15 @@ WG chairs are expected to:
 * Lead the WG session and encourage active participation
 * Review and approve the minutes from their WG session (4-6 weeks)
 * Attend WG chair lunches during RIPE Meetings
-* Attend WG chair meetings between RIPE Meetings
+* Attend WG chair meetings between RIPE Meetings if needed
 * Update the action list of their WG after the RIPE Meeting
 * Approach the RIPE Chair with any requests to fund a speaker's
   attendance at a RIPE Meeting. If the request for funding is deemed
   appropriate by the RIPE Chair, the RIPE Chair will request funding
   from the RIPE NCC Managing Director. The RIPE NCC Managing Director
   may or may not approve such a request at their own discretion.
+* Develop, maintain, and implement a procedure for the selection and
+  removal of WG chairs for the WG.
 
 These responsibilities may be split between co-chairs.
 
@@ -115,6 +117,8 @@ Minor:
 * Converted to gender-neutral pronouns (they).
 * Updated reference to RIPE PDP.
 * Chairs get "content" not "presentations" for WG sessions.
+* Added "if needed" to attending WG chairs meetings between RIPE
+  meetings.
 
 Major:
 * Eliminated the chair with optional co-chair model.
@@ -127,8 +131,4 @@ Major:
   does that.
 * Removed references to the EOF Coordinator since that role does not
   really exist now.
-
-Open questions:
-* Do we still need "Attend WG chair meetings between RIPE Meetings"?
-* Do we need to reference the RIPE PDP by number or just specify the
-  RIPE PDP?
+* Added responsibility for WG chairs for WG selection procedure.
